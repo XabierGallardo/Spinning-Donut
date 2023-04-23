@@ -1,5 +1,5 @@
 # Spinning-Donut
-Spinning Donut in C :doughnut:
+Spinning Donut in C  :doughnut:
 
 ```sh
 # Compilation & linking with the math library
@@ -10,6 +10,5 @@ gcc -Wall donut.c -o donut -lm
 ```
 
 <p align="center">
-    <img src="donut1_sample.png" alt="Donut terminal sample">
+    <img src="donut_sample.png" alt="Donut terminal sample">
 </p>
-
